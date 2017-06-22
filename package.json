@@ -1,0 +1,40 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": {
+    "name": "wangzhuangzhuang",
+    "email": "Wzz15210645467@163.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "ejs": "^2.5.6",
+    "fs": "0.0.1-security",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-csso": "^3.0.0",
+    "gulp-data": "^1.2.1",
+    "gulp-ejs": "^3.0.1",
+    "gulp-fs": "0.0.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-less": "^3.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-collector": "^1.2.2",
+    "gulp-sequence": "^0.4.6",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "gulp-asset-rev": "0.0.15"
+  }
+}

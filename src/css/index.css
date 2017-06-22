@@ -1,0 +1,14 @@
+html,
+body {
+  background-size: 100px 100px;
+  background-position: center center;
+  width: 100px;
+  height: 200px;
+  box-sizing: border-box;
+}
+body {
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+  color: #000;
+}
